@@ -15,15 +15,9 @@ The Motion Detection Application is a Python script that captures video from a c
 
 git clone https://github.com/your-username/motion-detection.git
 
-arduino
-Copy code
-
 2. Install the required libraries using pip.
 
 pip install opencv-python pandas bokeh
-
-markdown
-Copy code
 
 ## Usage
 
