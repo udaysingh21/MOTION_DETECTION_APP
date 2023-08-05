@@ -1,4 +1,3 @@
-![app1d py](https://github.com/udaysingh21/MOTION_DETECTION_APP/assets/93074761/eb139e1f-a04e-4ea5-92f0-13a5a61663ef)
 # Motion Detection Application
 
 The Motion Detection Application is a Python script that captures video from a camera and detects motion in the video frames using OpenCV. It saves the start and end times of each motion event to a CSV file and generates a motion graph using the Bokeh library.
